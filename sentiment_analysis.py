@@ -93,7 +93,7 @@ analyze_pdf_sentiment('2029', parser.from_file('IPCC_reports/IPCC_1990.pdf'))
 # %%
 
 # %%
-#function takes a list of filenames, then makes them into pdfs and extracts the years
+#function takes a list of filenames, then makes them into text objects and extracts the years
 def pdfER(report_dir):
     file_list = os.listdir(report_dir)
     print(file_list)
