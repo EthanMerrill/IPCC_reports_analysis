@@ -3,7 +3,7 @@
 Preliminary analysis says...no:
 ![Chart of IPCC Sentiment](Sentiment_Chart.png)
 
-To use, download the synthesis (or full) reports from this link and place them a folder named IPCC_Reports with each report named with the year in the title. 
+To use, download the synthesis (full) reports from this <a href='https://archive.ipcc.ch/publications_and_data/publications_and_data_reports.shtml'>link</a> and place them a folder named IPCC_Reports with each report named with the year in the title. 
 
 *resources used:*
 - <a href = 'https://towardsdatascience.com/natural-language-generation-part-2-gpt-2-and-huggingface-f3acb35bc86a'>how to make Training data with scikit learn</a>
